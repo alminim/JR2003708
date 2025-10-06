@@ -1,0 +1,7 @@
+num_cells: 6
+cells:
+  - d 10
+  - d 12
+  - p 2
+  - d 1
+  - p 3
